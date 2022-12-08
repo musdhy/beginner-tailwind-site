@@ -1,4 +1,4 @@
-5381
+5383
 65C:\Users\hp\Desktop\beginner-tailwind-site\node_modules\@mischnic133149776170552534 1
 70C:\Users\hp\Desktop\beginner-tailwind-site\node_modules\terser\LICENSE133149776198180516 0
 55C:\Users\hp\Desktop\beginner-tailwind-site\package.json133149793951219582 0
@@ -22,11 +22,11 @@
 97C:\Users\hp\Desktop\beginner-tailwind-site\node_modules\@swc\helpers\src\_to_consumable_array.mjs133149776254147948 0
 94C:\Users\hp\Desktop\beginner-tailwind-site\node_modules\svgo\plugins\convertEllipseToCircle.js133149776224151555 0
 102C:\Users\hp\Desktop\beginner-tailwind-site\node_modules\caniuse-lite\data\features\intl-pluralrules.js133149776264217404 0
-47C:\Users\hp\Desktop\beginner-tailwind-site\dist133149794179793516 1
+47C:\Users\hp\Desktop\beginner-tailwind-site\dist133149810400533975 1
 97C:\Users\hp\Desktop\beginner-tailwind-site\node_modules\tailwindcss\src\util\parseObjectStyles.js133149777054190217 0
 105C:\Users\hp\Desktop\beginner-tailwind-site\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133149776222453976 0
 92C:\Users\hp\Desktop\beginner-tailwind-site\node_modules\tailwindcss\lib\util\escapeCommas.js133149777049913455 0
-57C:\Users\hp\Desktop\beginner-tailwind-site\src\index.html133149789601928014 0
+57C:\Users\hp\Desktop\beginner-tailwind-site\src\index.html133149800554760060 0
 50C:\Users\hp\Desktop\beginner-tailwind-site\LICENSE133149774906016054 0
 113C:\Users\hp\Desktop\beginner-tailwind-site\node_modules\@parcel\runtime-js\lib\helpers\browser\import-polyfill.js133149776224953885 0
 87C:\Users\hp\Desktop\beginner-tailwind-site\node_modules\resolve\test\home_paths_sync.js133149777044484358 0
@@ -4230,7 +4230,7 @@
 102C:\Users\hp\Desktop\beginner-tailwind-site\node_modules\caniuse-lite\data\features\speech-synthesis.js133149776269316529 0
 102C:\Users\hp\Desktop\beginner-tailwind-site\node_modules\@parcel\core\lib\requests\ValidationRequest.js133149776254577867 0
 106C:\Users\hp\Desktop\beginner-tailwind-site\node_modules\caniuse-lite\data\features\spellcheck-attribute.js133149776269326514 0
-58C:\Users\hp\Desktop\beginner-tailwind-site\dist\index.html133149794179596509 0
+58C:\Users\hp\Desktop\beginner-tailwind-site\dist\index.html133149810400454196 0
 92C:\Users\hp\Desktop\beginner-tailwind-site\node_modules\caniuse-lite\data\features\stream.js133149776269758316 0
 85C:\Users\hp\Desktop\beginner-tailwind-site\node_modules\@lezer\common\dist\parse.d.ts133149776216227921 0
 93C:\Users\hp\Desktop\beginner-tailwind-site\node_modules\caniuse-lite\data\features\svg-css.js133149776270149403 0
@@ -4646,6 +4646,7 @@
 85C:\Users\hp\Desktop\beginner-tailwind-site\node_modules\@parcel\transformer-babel\lib133149776224106420 1
 91C:\Users\hp\Desktop\beginner-tailwind-site\node_modules\@parcel\transformer-babel\README.md133149776225545578 0
 104C:\Users\hp\Desktop\beginner-tailwind-site\node_modules\@parcel\transformer-babel\src\babelErrorUtils.js133149776208848363 0
+66C:\Users\hp\Desktop\beginner-tailwind-site\dist\index.c9da5733.css133149807645912175 0
 70C:\Users\hp\Desktop\beginner-tailwind-site\node_modules\.bin\detective133149777061449510 0
 95C:\Users\hp\Desktop\beginner-tailwind-site\node_modules\@parcel\transformer-babel\src\config.js133149776215881664 0
 98C:\Users\hp\Desktop\beginner-tailwind-site\node_modules\@parcel\transformer-babel\src\constants.js133149776217540264 0
@@ -5377,6 +5378,7 @@
 69C:\Users\hp\Desktop\beginner-tailwind-site\dist\index.1fc92b19.js.map133149794179782184 0
 66C:\Users\hp\Desktop\beginner-tailwind-site\dist\index.274773d2.css133149794179596509 0
 70C:\Users\hp\Desktop\beginner-tailwind-site\dist\index.274773d2.css.map133149794179782184 0
-66C:\Users\hp\Desktop\beginner-tailwind-site\dist\index.4d663569.css133149789603677430 0
-70C:\Users\hp\Desktop\beginner-tailwind-site\dist\index.4d663569.css.map133149789603739521 0
+66C:\Users\hp\Desktop\beginner-tailwind-site\dist\index.4d663569.css133149810400244736 0
+70C:\Users\hp\Desktop\beginner-tailwind-site\dist\index.4d663569.css.map133149810400514019 0
 78C:\Users\hp\Desktop\beginner-tailwind-site\dist\index.4d663569.css.map.15368.7133149785895915295 0
+70C:\Users\hp\Desktop\beginner-tailwind-site\dist\index.c9da5733.css.map133149807646100097 0
